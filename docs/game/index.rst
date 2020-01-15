@@ -562,5 +562,5 @@ After you have finished with the game scene you may add sounds if you desire, th
    :glob:
 
    Background <background>
-   Jungle JOe <jungle_joe>
+   Jungle Joe <jungle_joe>
 
